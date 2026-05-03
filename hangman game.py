@@ -1,5 +1,5 @@
 import random
-import gman stages
+import hangman stages
 word_list=['rakshi','apple','delicious','beautiful','marvelous']
 lives=6
 chosen_word=random.choice(word_list)
